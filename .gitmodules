@@ -1,0 +1,3 @@
+[submodule "Pishing"]
+	path = Pishing
+	url = https://github.com/Jcons17/Pishing.git
